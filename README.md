@@ -1,4 +1,4 @@
-intro-to-js
+Sample Git repository
 ===========
 
-hooray!
+This is a sample git repository made for a class I teach.
